@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋
+🚀 Welcome to My Data Universe! 🌌
+I'm Mohammed Rifaz, A Data Analyst From India passionate about uncovering insights, telling data-driven stories, and making numbers work magic! ✨
 
-<!--
-**MRifaz07/MRifaz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I Do:
+🔹 Transform raw data into actionable insights 📊
+🔹 Build interactive dashboards & visualizations 📈
+🔹 Dive deep into data cleaning, wrangling, and modeling 🛠️
+🔹 Solve real-world problems with Python, SQL & Excel 🧩
 
-Here are some ideas to get you started:
+🔥 Tech Stack & Tools I Use are:
+💻 Languages: Python, SQL
+📊 Visualization: Power BI
+🛠️ Data Handling: Pandas, NumPy, Excel
+📂 Databases: MySQL, SQL server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Fun Facts About Me:
+🚀 I see datasets as puzzles waiting to be solved!
+📖 I love storytelling with data—because numbers should speak!
+📚 Always eager to learn new tools & techniques!
+
+
+🌍 Let's Connect!
+📩 Email: mohammedrifaz1452@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/mohdrifaz
+
+🚀 Let's turn data into decisions! 🎯
